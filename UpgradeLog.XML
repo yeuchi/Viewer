@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Viewer">
+</Property><Property Name="Solution File" Value="C:\MyStuff\Dev\C#\Viewer\Viewer.sln">
+</Property><Property Name="User Options File" Value="C:\MyStuff\Dev\C#\Viewer\Viewer.suo">
+</Property><Property Name="Date" Value="Monday, October 10, 2011">
+</Property><Property Name="Time" Value="14:45 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Viewer.sln" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Viewer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Viewer.suo" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Viewer.suo">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Viewer.csproj" Description="Project file successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Viewer.csproj">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Viewer.csproj.user" Description="Project user file successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Viewer.csproj.user">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="BinaryTree.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\BinaryTree.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="ChannelHistogram.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\ChannelHistogram.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="ColorRGB.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\ColorRGB.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Convolution.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Convolution.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Convolve.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Convolve.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="CummulativeHistogram.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\CummulativeHistogram.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Dither.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Dither.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="DitherDlg.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\DitherDlg.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="FocusStackDlg.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\FocusStackDlg.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="FocusStacking.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\FocusStacking.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Form1.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="ImageView.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\ImageView.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Log.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Log.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Resize.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Resize.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="UnSharpMask.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\UnSharpMask.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="VolumeHistogram.cs" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\VolumeHistogram.cs">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="App.config" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="App.ico" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="ChannelHistogram.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\ChannelHistogram.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Convolution.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Convolution.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="CummulativeHistogram.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\CummulativeHistogram.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="DitherDlg.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\DitherDlg.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="FocusStackDlg.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\FocusStackDlg.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Form1.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="ImageView.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\ImageView.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Resize.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\Resize.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="UnSharpMask.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\UnSharpMask.resx">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="VolumeHistogram.resx" Description="File successfully backed up as C:\MyStuff\Dev\C#\Viewer\Backup\VolumeHistogram.resx">
+</Event><Event ErrorLevel="1" Project="Viewer" Source="Viewer.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Viewer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Viewer" Source="Viewer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Viewer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Viewer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Viewer" Source="Viewer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
